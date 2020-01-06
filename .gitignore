@@ -1,0 +1,3 @@
+word2vec_wiki_zh.model.bin
+word2vec_wiki_zh.model.bin.trainables.syn1neg.npy
+word2vec_wiki_zh.model.bin.wv.vectors.npy
